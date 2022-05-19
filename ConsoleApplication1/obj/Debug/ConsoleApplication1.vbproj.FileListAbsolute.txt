@@ -1,0 +1,31 @@
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+N:\MyWork\Year 10\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.AssemblyReference.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Bank Account validater\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
